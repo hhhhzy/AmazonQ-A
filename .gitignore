@@ -1,0 +1,16 @@
+*.pem
+data/*
+*__pycache__*
+src/naive_baseline/log*
+*.swp
+*.swo
+*.json.gz
+__init__.pyc
+*pyc
+*.pickle
+*.log
+*.patch
+*.ipynb_checkpoints*
+*saved_models*
+*.DS_Store*
+*/conll2018.pdf

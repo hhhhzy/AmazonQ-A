@@ -1,0 +1,10 @@
+wget
+scipy
+nltk
+tqdm
+torch
+pandas
+numpy
+h5py
+pyyaml
+spacy
